@@ -4,10 +4,10 @@ Key data
 - name of the plugin: Identification Codes Plugin
 - author: Carola Fanselow
 - current version: 1.0.0.0
-- tested on OMP version: 1.1.1-1
-- github link: 
-- community plugin: yes, 1.0.0.0
-- date: 28.2.2016
+- tested on OMP version: 1.2.0
+- github link: https://github.com/langsci/identificationCodes.git
+- community plugin: yes
+- date: 15.10.2016
 
 Description
 ============
