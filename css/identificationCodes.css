@@ -1,0 +1,31 @@
+/*
+ * plugins/generic/identificationCodes/css/identificationCodes.css 
+ *
+ * CSS for Identification Codes Plugin	
+ * Copyright (c) 2016 Language Science Press
+ * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+ * 
+*/
+
+#identificationCodes table {
+	margin-top: 20px;
+}
+
+#identificationCodes table th {
+	font-weight:bold;
+	background-color:#eee;
+}
+
+#identificationCodes table td, #identificationCodes table th {
+	padding: 5px 10px 5px 10px;
+}
+
+#identificationCodes table th {
+	padding: 5px 10px 5px 10px;
+}
+
+#identificationCodes table, #identificationCodes th, #identificationCodes td {
+   border: 1px solid black;
+} 
+
+

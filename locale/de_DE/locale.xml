@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/generic/identificationCodes/locale/de_DE/locale.xml
+  *
+  * Copyright (c) 2016 Language Science Press
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings for the de_DE (Deutsch (Deutschland)) locale.
+  -->
+
+<locale name="en_US" full_name="Deutsch (Deutschland)">
+
+	<message key="plugins.generic.identificationCodes.displayName">Produktcode Plugin</message>
+	<message key="plugins.generic.identificationCodes.description">Listet alle Produktcodes auf.</message>
+	<message key="plugins.generic.title.identificationCodes">Produktcodes</message>
+	<message key="plugins.generic.identificationCodes.introduction">Liste aller Produktcodewerte für die folgenden ONIX Codetypen (wählen Sie die Codetypen in den Einstellungen dieses Plugins aus):</message>
+	<message key="plugins.generic.identificationCodes.noCodesSelected">Sie haben keine ONIX Codetypen ausgewählt, die den Codetypen in der ONIX Codeliste entsprechen. Gehen Sie in die Einstellungen dieses Plugins um Codetypen auszuwählen, öffenen Sie die Datei 'ONIX_BookProduct_CodeLists.xsd' (List5), um zu sehen, welche ONIX Codetypen angeboten werden.</message>
+
+	<message key="plugins.generic.identificationCodes.settings.title">Einstellungen für das Plugin 'Produktcodes'</message>
+	<message key="plugins.generic.identificationCodes.form.saved">Die Einstellungen wurden gespeichert.</message>
+	<message key="plugins.generic.identificationCodes.settings">Einstellungen</message>
+	<message key="plugins.generic.identificationCodes.intro.codes">Welche Codetypen sollen aufgelistet werden</message>
+	<message key="plugins.generic.identificationCodes.lable.codes">(Trennung durch Kommas, z.B. 'ISBN-10, ISBN-13')</message>
+
+</locale>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
