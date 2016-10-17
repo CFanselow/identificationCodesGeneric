@@ -26,6 +26,7 @@
 		{/foreach}
 	</ul>
 
+	<div id="identificationCodesTable">
 	<table>
 		<tr>
 			<th>SubId</th>
@@ -46,6 +47,7 @@
 		</tr>
 		{/foreach}
 	</table> 
+	</div>
 
 	{else}
 

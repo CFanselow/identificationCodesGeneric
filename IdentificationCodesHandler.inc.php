@@ -48,8 +48,6 @@ class IdentificationCodesHandler extends Handler {
 
 		$identifcationCodesSettings = array_map('trim', explode(',',self::$plugin->getSetting($press->getId(), 'langsci_identification_codes')));
 
-var_dump($identifcationCodesSettings);
-
 		// get codes from the ONIX code list
 		$onixCodelistItemDao = DAORegistry::getDAO('ONIXCodelistItemDAO');
 		$onixCodes = $onixCodelistItemDao->getCodes('List5');

@@ -7,8 +7,21 @@
  * 
 */
 
+#identificationCodes {
+	background-color:white;
+	padding: 20px;
+	border: 1px solid #bbb;
+}
+
+
+#identificationCodesTable {
+	overflow:auto;
+}
+
 #identificationCodes table {
 	margin-top: 20px;
+	border-bottom: 1px solid #bbb;
+	font-size: 11px;
 }
 
 #identificationCodes table th {
@@ -24,8 +37,15 @@
 	padding: 5px 10px 5px 10px;
 }
 
+#identificationCodes tr  {
+	border-top: 1px solid #bbb;
+	border-left: 3px solid #bbb;
+	border-right: 3px solid #bbb;
+} 
+
+/*
 #identificationCodes table, #identificationCodes th, #identificationCodes td {
    border: 1px solid black;
-} 
+} */
 
 
